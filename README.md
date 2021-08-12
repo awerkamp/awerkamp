@@ -10,8 +10,8 @@ https://msd.utah.edu
 
 I am currently interviewing for a full-time position in Software Development starting January
 
-I am a novice in the following technologies:
-Java, Javascript, C++, Python, Github, Git, MySql, C#, 
+I have experience in the following technologies:
+Java, Javascript, C++, Python, Github, Git, MySql 
 
 I am located in the Utah area and hope to stay in the area but may move depending on opportunities. 
 
