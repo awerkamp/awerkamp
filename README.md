@@ -8,7 +8,7 @@ https://github.com/awerkamp/internship
 You can see the details of my master's program here:
 https://msd.utah.edu
 
-I am currently interviewing for a full-time position in Software Development starting January
+I am currently interviewing for full-time positions in Software Development starting January 2022.
 
 I have experience in the following technologies:
 Java, Javascript, C++, Python, Github, Git, MySql 
