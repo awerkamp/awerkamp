@@ -16,4 +16,4 @@ Java, Javascript, C++, Python, Github, Git, MySql
 I am located in the Utah area and hope to stay in the area but may move depending on opportunities. 
 
 You can reach out to me here:
-awerkamp@gmail.com
+weave-midways-0y@icloud.com
