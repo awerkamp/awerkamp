@@ -1,6 +1,6 @@
 ## Benjamin Awerkamp
 
-Software Development Internship at Romaric. Aug 2021 - Dec 2021
+Software Development Internship with Romaric. Aug 2021 - Dec 2021
 https://github.com/awerkamp/internship
 
 Master's program at the University of Utah
