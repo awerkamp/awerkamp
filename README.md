@@ -1,6 +1,6 @@
 ## Benjamin Awerkamp
 
-Please see the details of the internship in my Internship Repo. The internship will be from Aug 2021 - Dec 2021
+Please see the details of the internship in my Internship Repo. Aug 2021 - Dec 2021
 https://github.com/awerkamp/internship
 
 You can see the details of my master's program here:
