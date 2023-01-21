@@ -8,3 +8,5 @@ https://msd.utah.edu
 
 I have experience in the following technologies:
 Java, Javascript, C++, Python, Github, Git, MySql 
+
+I am currently working as a Solutions Engineer at Okta helping organizations with Identity and Access Management
