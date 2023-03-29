@@ -8,5 +8,3 @@ https://github.com/awerkamp/internship
 
 Experience in the following technologies:
 Java, Javascript, C++, Python, Github, Git, MySql 
-
-Currently working as a Solutions Engineer at Okta helping organizations with Identity and Access Management
